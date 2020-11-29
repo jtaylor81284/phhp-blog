@@ -1,3 +1,3 @@
-# PHHP Blog Repo
+# PHHP Blog Repository
 
-This is a repo for version control of my PHHP blog.
+Place to version control my PHHP blog.
